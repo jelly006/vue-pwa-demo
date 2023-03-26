@@ -1,0 +1,11 @@
+{
+  "RouterMode": "hash",
+  "RouterBase": "./",
+
+  "AxiosBaseUrl": "",
+  "AxiosTimeout": 30000,
+  "AxiosHeader": {
+    "Content-Type": "application/json;chareset=UTF-8"
+  }
+  
+}
